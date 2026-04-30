@@ -1,0 +1,1 @@
+import{at as e,ht as t}from"./Button-BBPsYdRa.js";function n({props:n,name:r,defaultTheme:i,themeId:a}){let o=t(i);return a&&(o=o[a]||o),e({theme:o,name:r,props:n})}export{n as t};
