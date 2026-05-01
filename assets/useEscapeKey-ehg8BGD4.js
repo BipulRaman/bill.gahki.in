@@ -1,1 +1,0 @@
-import{Gt as e,Ht as t}from"./Button-K5asp1Gj.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{if(!e)return;let t=t=>{t.key===`Escape`&&e()};return document.addEventListener(`keydown`,t),()=>document.removeEventListener(`keydown`,t)},[e])}export{r as t};

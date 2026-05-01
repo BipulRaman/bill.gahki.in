@@ -1,0 +1,1 @@
+import{Bt as e,h as t}from"./CardContent-C_NNHnnP.js";var n=e(),r=t((0,n.jsx)(`path`,{d:`M19 13H5v-2h14z`}),`Remove`),i=t((0,n.jsx)(`path`,{d:`M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2m5 11h-4v4h-2v-4H7v-2h4V7h2v4h4z`}),`AddCircle`);export{r as n,i as t};

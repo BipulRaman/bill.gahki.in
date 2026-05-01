@@ -1,0 +1,1 @@
+import{Vt as e,Wt as t}from"./CardContent-C_NNHnnP.js";var n=t(e());function r(e){let t=n.useRef({});return n.useEffect(()=>{t.current=e}),t.current}export{r as t};

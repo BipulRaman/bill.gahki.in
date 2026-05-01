@@ -1,0 +1,1 @@
+import{Vt as e,Wt as t}from"./CardContent-C_NNHnnP.js";var n=t(e(),1);function r(e){(0,n.useEffect)(()=>{if(!e)return;let t=t=>{t.key===`Escape`&&e()};return document.addEventListener(`keydown`,t),()=>document.removeEventListener(`keydown`,t)},[e])}export{r as t};

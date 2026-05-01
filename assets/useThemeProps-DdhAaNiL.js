@@ -1,0 +1,1 @@
+import{bt as e,ut as t}from"./CardContent-C_NNHnnP.js";function n({props:n,name:r,defaultTheme:i,themeId:a}){let o=e(i);return a&&(o=o[a]||o),t({theme:o,name:r,props:n})}export{n as t};
