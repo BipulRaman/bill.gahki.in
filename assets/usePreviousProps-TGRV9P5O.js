@@ -1,1 +1,0 @@
-import{Gt as e,Ht as t}from"./Card-DKvkWxHi.js";var n=e(t());function r(e){let t=n.useRef({});return n.useEffect(()=>{t.current=e}),t.current}export{r as t};
