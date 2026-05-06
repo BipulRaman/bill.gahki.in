@@ -1,0 +1,1 @@
+import{dt as e,xt as t}from"./Card-D72CaU5J.js";function n({props:n,name:r,defaultTheme:i,themeId:a}){let o=t(i);return a&&(o=o[a]||o),e({theme:o,name:r,props:n})}export{n as t};
