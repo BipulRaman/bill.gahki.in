@@ -1,0 +1,1 @@
+import{Kt as e,Ut as t}from"./Card-vz-5kdmW.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{if(!e)return;let t=t=>{t.key===`Escape`&&e()};return document.addEventListener(`keydown`,t),()=>document.removeEventListener(`keydown`,t)},[e])}export{r as t};

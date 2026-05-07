@@ -1,1 +1,0 @@
-import{pt as e}from"./Card-D72CaU5J.js";var t=e();export{t};
