@@ -1,1 +1,0 @@
-import{Kt as e,Ut as t}from"./Card-vz-5kdmW.js";var n=e(t());function r(e){let t=n.useRef({});return n.useEffect(()=>{t.current=e}),t.current}export{r as t};

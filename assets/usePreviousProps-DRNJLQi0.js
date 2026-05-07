@@ -1,0 +1,1 @@
+import{Wt as e,qt as t}from"./Card-k2uok_FN.js";var n=t(e());function r(e){let t=n.useRef({});return n.useEffect(()=>{t.current=e}),t.current}export{r as t};
