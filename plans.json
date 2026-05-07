@@ -1,0 +1,62 @@
+{
+  "currency": "INR",
+  "plans": [
+    {
+      "code": "starter",
+      "displayName": "Starter",
+      "tagline": "For shops just getting started.",
+      "monthlyPriceInr": 0,
+      "isRecommended": false,
+      "limits": {
+        "maxProducts": 20,
+        "maxBillsPerMonth": 1500,
+        "maxStaff": 1
+      },
+      "features": {
+        "onlineStore": false,
+        "pdfBill": true
+      }
+    },
+    {
+      "code": "growth",
+      "displayName": "Growth",
+      "tagline": "For busy shops with multiple staff.",
+      "monthlyPriceInr": 199,
+      "isRecommended": true,
+      "limits": {
+        "maxProducts": 400,
+        "maxBillsPerMonth": 0,
+        "maxStaff": 3
+      },
+      "features": {
+        "onlineStore": false,
+        "pdfBill": true
+      }
+    },
+    {
+      "code": "custom",
+      "displayName": "Custom",
+      "tagline": "Tailored for chains, pilots, or special needs.",
+      "monthlyPriceInr": null,
+      "isCustomizable": true,
+      "limits": {
+        "maxProducts": 500,
+        "maxBillsPerMonth": 0,
+        "maxStaff": 10
+      },
+      "features": {
+        "onlineStore": false,
+        "pdfBill": true
+      }
+    }
+  ],
+  "addons": [
+    {
+      "key": "online_store",
+      "label": "Online Store + Premium Support",
+      "feature": "onlineStore",
+      "startsAtInr": 1000,
+      "description": "Dedicated storefront with cart and COD orders. Pricing scales with the features you need."
+    }
+  ]
+}
