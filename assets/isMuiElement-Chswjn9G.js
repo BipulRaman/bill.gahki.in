@@ -1,0 +1,1 @@
+import{An as e,Mn as t}from"./Portal-BXribIKZ.js";var n=t(e());function r(e,t){return n.isValidElement(e)&&t.indexOf(e.type.muiName??e.type?._payload?.value?.muiName)!==-1}export{r as t};
