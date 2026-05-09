@@ -1,0 +1,1 @@
+import{_t as e,gt as t}from"./Typography-DHgG8KTT.js";function n(t){return e(`MuiListItemButton`,t)}var r=t(`MuiListItemButton`,[`root`,`focusVisible`,`dense`,`alignItemsFlexStart`,`disabled`,`divider`,`gutters`,`selected`]);export{r as n,n as t};
