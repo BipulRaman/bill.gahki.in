@@ -1,0 +1,1 @@
+function e(e,t,n){let r=t||0;if(r<=0)return{net:e,gross:e,tax:0};if(n){let t=e*100/(100+r);return{net:t,gross:e,tax:e-t}}let i=e*(100+r)/100;return{net:e,gross:i,tax:i-e}}function t(t,n,r){return e(t,n,r).gross}function n(e,t,n,r){let i=t||0;return i<=0||n===r?e:r?e*(100+i)/100:e*100/(100+i)}export{t as n,e as r,n as t};
