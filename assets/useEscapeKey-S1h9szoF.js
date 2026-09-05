@@ -1,1 +1,0 @@
-import{r as e}from"./rolldown-runtime-QTnfLwEv.js";import{On as t}from"./Portal-BExx__Mt.js";var n=e(t(),1);function r(e){(0,n.useEffect)(()=>{if(!e)return;let t=t=>{t.key===`Escape`&&e()};return document.addEventListener(`keydown`,t),()=>document.removeEventListener(`keydown`,t)},[e])}export{r as t};
